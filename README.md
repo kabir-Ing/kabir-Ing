@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🛡️ Kabir IT
+# 🛡️ Kabir_IT
 
 ### 🌐 Réseaux • 🖥️ Systèmes • 🔐 Cybersécurité
 
@@ -21,7 +21,7 @@
 
 Bonjour et bienvenue sur mon profil GitHub !
 
-Je suis **Kabir IT**, passionné par les réseaux informatiques, l'administration des systèmes, les infrastructures IT et la cybersécurité.
+Je suis **Kabir_IT**, passionné par les réseaux informatiques, l'administration des systèmes, les infrastructures IT et la cybersécurité.
 
 Je développe mes compétences à travers des travaux pratiques, des laboratoires et des projets techniques, avec une attention particulière à la compréhension, à l'administration et à la sécurisation des infrastructures.
 
