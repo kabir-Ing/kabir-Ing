@@ -2,7 +2,7 @@
 # 👋 Bonjour, je suis Kabir !
 
 ### 🌐 Réseaux | 🖥️ Systèmes | 🛡️ Cybersécurité
-
+🎯 **À la recherche d'un stage en informatique**
 Passionné par les infrastructures informatiques,
 les réseaux et la cybersécurité, je développe mes
 compétences à travers des projets techniques
