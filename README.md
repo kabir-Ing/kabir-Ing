@@ -61,13 +61,33 @@ Je m'intéresse également aux dimensions opérationnelles et organisationnelles
 
 ## 🛠️ `$ ls -la competences/`
 
-### 🌐 Réseaux & Infrastructure
+### 🌐 Réseaux & Sécurité réseau
+
+**Protocoles & outils réseau**
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-0078D4?style=flat-square)
 ![HTTP](https://img.shields.io/badge/HTTP-0078D4?style=flat-square)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-0078D4?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0078D4?style=flat-square)
+
+**Pare-feu & sécurité périmétrique**
+
+![pfSense](https://img.shields.io/badge/pfSense-1D4ED8?style=flat-square)
+![OPNsense](https://img.shields.io/badge/OPNsense-1D4ED8?style=flat-square)
+![FortiGate](https://img.shields.io/badge/FortiGate-1D4ED8?style=flat-square)
+
+**Détection et prévention des intrusions**
+
+![Suricata](https://img.shields.io/badge/Suricata-0891B2?style=flat-square)
+![Snort](https://img.shields.io/badge/Snort-0891B2?style=flat-square)
+
+**Architecture & sécurisation réseau**
+
+![VPN](https://img.shields.io/badge/VPN-2563EB?style=flat-square)
+![VLAN](https://img.shields.io/badge/VLAN-2563EB?style=flat-square)
+![ACL](https://img.shields.io/badge/ACL-2563EB?style=flat-square)
+
 
 ### 🖥️ Systèmes & Virtualisation
 
