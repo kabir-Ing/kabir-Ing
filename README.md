@@ -114,7 +114,7 @@ Les domaines et fonctions qui m'intéressent particulièrement sont :
 | 🛡️ Conseil en cybersécurité | Consultant cybersécurité junior |
 | ⚙️ Ingénierie de sécurité | Sécurité des infrastructures et SOC Engineering |
 
-> Ces fonctions représentent mes orientations professionnelles et non des postes déjà occupés.
+
 
 ---
 
@@ -126,13 +126,13 @@ En complément de mes compétences actuelles, je souhaite progressivement explor
 
 | Domaine | Compétences à développer | Statut |
 |---|---|---|
-| ☁️ Cloud Security | IAM, sécurité réseau cloud, supervision, AWS/Azure | 🎯 À développer |
-| 🔐 DevSecOps | Sécurité CI/CD, analyse de code, sécurité des conteneurs | 🎯 À développer |
+| ☁️ Cloud Security | IAM, sécurité réseau cloud, supervision, AWS/Azure | 🎯 À approfondir |
+| 🔐 DevSecOps | Sécurité CI/CD, analyse de code, sécurité des conteneurs | 🎯 À  approfondir|
 | ⚙️ DevOps | Docker, CI/CD, automatisation, infrastructures | 🎯 À développer |
 | 📋 GRC | ISO 27001, EBIOS RM, analyse des risques | 🎯 À approfondir |
 | 💻 Backend | APIs REST, Python, bases de données, authentification | 🎯 Optionnel |
 
-Cette feuille de route reflète mes **objectifs d'apprentissage futurs**. Les compétences seront progressivement développées et documentées à travers des projets pratiques.
+
 
 ---
 
