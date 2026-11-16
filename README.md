@@ -76,7 +76,8 @@ Je m'intéresse également aux dimensions opérationnelles et organisationnelles
 ![Windows](https://img.shields.io/badge/Windows_Server-23395B?style=flat-square)
 ![VMware](https://img.shields.io/badge/VMware-23395B?style=flat-square)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-23395B?style=flat-square)
-![ VMware EsXi](https://img.shields.io/badge/VMware EsXi-23395B?style=flat-square)
+![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-23395B?style=flat-square)
+
 
 ### 🔐 Cybersécurité & Supervision
 
