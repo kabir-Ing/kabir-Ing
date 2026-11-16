@@ -184,7 +184,7 @@ En complément de mes compétences actuelles, je souhaite progressivement explor
 
 💼 **LinkedIn :** 
 
-🌐 **Portfolio Notion :** 
+🌐 **Portfolio  :** 
 
 ---
 
