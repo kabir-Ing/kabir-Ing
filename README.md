@@ -3,15 +3,15 @@
 
 # 🛡️ KABIR IT
 
-### 🌐 Réseaux • 🖥️ Systèmes • 🔐 Cybersécurité
+### 🌐 Réseaux | 🖥️ Systèmes | 🔐 Cybersécurité
 
-**Infrastructures IT | Sécurité des infrastructures | SOC**
+**Infrastructures IT • Sécurité des infrastructures • SOC**
 
 ![Stage](https://img.shields.io/badge/RECHERCHE-DE_STAGE-0078D4?style=for-the-badge)
 ![Infrastructure](https://img.shields.io/badge/IT-INFRASTRUCTURE-102A43?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-0891B2?style=for-the-badge)
 
-*Construire, administrer, comprendre et sécuriser les infrastructures informatiques.*
+*Apprendre • Pratiquer • Documenter • Sécuriser*
 
 </div>
 
@@ -19,20 +19,26 @@
 
 ## 💻 `$ whoami`
 
-Bonjour, je suis **Kabir**, passionné par les réseaux, les systèmes informatiques et la cybersécurité.
+Bonjour, bienvenue sur mon profil GitHub !
 
-Je développe mes compétences à travers des travaux pratiques, des laboratoires techniques et des projets que je souhaite documenter et partager sur GitHub.
+Je suis **Kabir IT**, passionné par les infrastructures informatiques, les réseaux, l'administration systèmes et la cybersécurité.
 
-Mes principaux centres d'intérêt sont :
+Je développe mes compétences à travers des travaux pratiques, des laboratoires et des projets techniques.
 
-- 🌐 L'administration et la sécurité des réseaux
-- 🖥️ L'administration des systèmes Linux et Windows
-- 🏗️ La virtualisation et les infrastructures IT
-- 🛡️ La cybersécurité et la sécurité défensive
-- 🔎 La supervision et les technologies SOC
-- ⚙️ Le scripting et l'automatisation
+Mon objectif est de progresser dans la conception, l'administration, l'automatisation et la sécurisation des infrastructures IT.
 
-🎯 **Objectif actuel : décrocher un premier stage en informatique, notamment en réseaux, systèmes, infrastructures ou cybersécurité.**
+🎯 **Je recherche actuellement un stage en réseaux, systèmes, infrastructures IT ou cybersécurité afin d'acquérir une première expérience professionnelle.**
+
+---
+
+## 🧭 `$ cat domaines-interet.txt`
+
+- 🌐 Administration et sécurité des réseaux
+- 🖥️ Administration Linux et Windows Server
+- 🏗️ Virtualisation et infrastructures IT
+- 🛡️ Sécurité des systèmes et des infrastructures
+- 🔎 Supervision et sécurité défensive (SOC)
+- ⚙️ Scripting et automatisation
 
 ---
 
@@ -70,55 +76,80 @@ Mes principaux centres d'intérêt sont :
 ![PowerShell](https://img.shields.io/badge/PowerShell-2563EB?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square)
 
-> Ces technologies correspondent à des outils et environnements déjà pratiqués. Mes projets documentés permettront de présenter plus précisément mes réalisations.
+> Technologies déjà pratiquées dans le cadre de mon apprentissage. Leur présence ne signifie pas une maîtrise avancée.
 
 ---
 
-## 📂 `$ ls projets/`
+## 🚀 `$ cat learning-roadmap.md`
+
+Mon objectif est de développer progressivement de nouvelles compétences complémentaires à mon socle en réseaux, systèmes et cybersécurité.
+
+| Domaine | Compétences à développer | Statut |
+|---|---|---|
+| ☁️ DevOps | Git, Docker, CI/CD, Linux, automatisation | 🎯 À développer |
+| 🔐 DevSecOps | Sécurité CI/CD, analyse de code, sécurité des conteneurs | 🎯 À développer |
+| 🛡️ Cloud Security | IAM, sécurité réseau cloud, supervision, AWS/Azure | 🎯 À développer |
+| 💻 Backend | APIs REST, Python, bases de données, authentification | 🎯 À développer |
+
+Ces domaines représentent mes **objectifs d'apprentissage futurs**, et non des compétences déjà acquises.
+
+---
+
+## 📂 `$ ls -la projets/`
 
 ### 🔬 Mes réalisations techniques
 
-Je travaille actuellement à la restructuration et à la centralisation de mes anciens projets.
+Je travaille actuellement à la restructuration et à la centralisation de mes anciens projets en réseaux, systèmes et cybersécurité.
 
-Chaque projet publié sera accompagné, selon les éléments disponibles, de :
+Chaque projet sera accompagné, selon les éléments disponibles, de :
 
 - Son contexte et ses objectifs
-- L'architecture et l'environnement technique
+- Son environnement technique
 - La méthodologie suivie
-- Les outils utilisés
-- Des captures d'écran et des résultats observés
+- Les outils réellement utilisés
+- Des captures et des résultats observés
 - Les difficultés rencontrées et les enseignements tirés
 
-**Les premiers dépôts de projets seront ajoutés progressivement.**
+📌 **Les dépôts documentés seront ajoutés progressivement.**
 
 ---
 
 ## 🎯 `$ cat objectifs.txt`
 
-- Renforcer mes compétences en réseaux et systèmes
-- Approfondir l'administration et la sécurité des infrastructures
-- Développer mes connaissances en supervision et sécurité défensive
-- Améliorer mes compétences en scripting et automatisation
-- Acquérir une première expérience professionnelle en informatique
+**À court terme :**
+- Obtenir un premier stage en informatique
+- Consolider mes compétences en réseaux et systèmes
+- Documenter et partager mes réalisations techniques
+
+**À moyen terme :**
+- Approfondir la sécurité des infrastructures
+- Développer mes compétences en automatisation
+- Découvrir les pratiques DevOps et DevSecOps
+- Explorer la sécurité des environnements cloud
+
+**À plus long terme :**
+- Évoluer vers l'ingénierie de sécurité des infrastructures
+- Approfondir le SOC Engineering
+- Développer des projets backend en complément
 
 ---
 
-## 📬 `$ contact --info`
+## 📬 `$ netstat --connections`
 
 📍 **Localisation :** France
 
-💼 **Situation :** Recherche de stage en informatique
+🎓 **Objectif :** Stage en informatique
 
-🔗 **LinkedIn :** lien à ajouter
+🔗 **LinkedIn :** à ajouter
 
-🌐 **Portfolio Notion :** lien à ajouter
+🌐 **Portfolio Notion :** à ajouter
 
 ---
 
 <div align="center">
 
-**Merci de votre visite !**
+### Merci de votre visite !
 
-*Apprendre • Pratiquer • Documenter • Progresser*
+**Apprendre • Construire • Sécuriser • Progresser**
 
 </div>
