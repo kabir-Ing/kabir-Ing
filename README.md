@@ -76,6 +76,7 @@ Je m'intéresse également aux dimensions opérationnelles et organisationnelles
 ![Windows](https://img.shields.io/badge/Windows_Server-23395B?style=flat-square)
 ![VMware](https://img.shields.io/badge/VMware-23395B?style=flat-square)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-23395B?style=flat-square)
+![ VMware EsXi](https://img.shields.io/badge/VMware EsXi-23395B?style=flat-square)
 
 ### 🔐 Cybersécurité & Supervision
 
@@ -85,6 +86,8 @@ Je m'intéresse également aux dimensions opérationnelles et organisationnelles
 ![Burp](https://img.shields.io/badge/Burp_Suite-0891B2?style=flat-square)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0891B2?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP_ZAP-0891B2?style=flat-square)
+![PRTG](https://img.shields.io/badge/PRTG-0891B2?style=flat-square)
+![PRTG](https://img.shields.io/badge/PRTG-0891B2?style=flat-square)
 
 ### ⚙️ Programmation & Scripting
 
