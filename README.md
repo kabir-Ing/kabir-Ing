@@ -3,9 +3,9 @@
 
 # 🛡️ KABIR IT
 
-### 🌐 Réseaux | 🖥️ Systèmes | 🔐 Cybersécurité
+### 🌐 Réseaux • 🖥️ Systèmes • 🔐 Cybersécurité
 
-**Infrastructures IT • Sécurité des infrastructures • SOC**
+**Infrastructures IT | Sécurité opérationnelle | GRC**
 
 ![Stage](https://img.shields.io/badge/RECHERCHE-DE_STAGE-0078D4?style=for-the-badge)
 ![Infrastructure](https://img.shields.io/badge/IT-INFRASTRUCTURE-102A43?style=for-the-badge)
@@ -19,30 +19,47 @@
 
 ## 💻 `$ whoami`
 
-Bonjour, bienvenue sur mon profil GitHub !
+Bonjour et bienvenue sur mon profil GitHub !
 
-Je suis **Kabir IT**, passionné par les infrastructures informatiques, les réseaux, l'administration systèmes et la cybersécurité.
+Je suis **KABIR IT**, passionné par les réseaux informatiques, l'administration des systèmes, les infrastructures IT et la cybersécurité.
 
-Je développe mes compétences à travers des travaux pratiques, des laboratoires et des projets techniques.
+Je développe mes compétences à travers des travaux pratiques, des laboratoires et des projets techniques, avec une attention particulière à la compréhension, à l'administration et à la sécurisation des infrastructures.
 
-Mon objectif est de progresser dans la conception, l'administration, l'automatisation et la sécurisation des infrastructures IT.
+Je m'intéresse également aux dimensions opérationnelles et organisationnelles de la cybersécurité, notamment à la **sécurité défensive (Blue Team / SOC)** et à la **Gouvernance, aux Risques et à la Conformité (GRC)**.
 
-🎯 **Je recherche actuellement un stage en réseaux, systèmes, infrastructures IT ou cybersécurité afin d'acquérir une première expérience professionnelle.**
+🎯 **Mon objectif actuel :** décrocher un premier stage en informatique, dans les domaines des réseaux, des systèmes, des infrastructures IT ou de la cybersécurité.
 
 ---
 
 ## 🧭 `$ cat domaines-interet.txt`
 
-- 🌐 Administration et sécurité des réseaux
-- 🖥️ Administration Linux et Windows Server
-- 🏗️ Virtualisation et infrastructures IT
-- 🛡️ Sécurité des systèmes et des infrastructures
-- 🔎 Supervision et sécurité défensive (SOC)
-- ⚙️ Scripting et automatisation
+### 🌐 Infrastructures IT
+- Administration et sécurité des réseaux
+- Administration Linux et Windows Server
+- Virtualisation et infrastructures informatiques
+- Supervision et disponibilité des systèmes
+
+### 🛡️ Cybersécurité opérationnelle
+- Sécurité des systèmes et des réseaux
+- Sécurité défensive (Blue Team)
+- Supervision et analyse des événements de sécurité
+- Détection et analyse des incidents
+- Sécurité des infrastructures
+
+### 📋 Gouvernance, Risques & Conformité
+- Analyse et gestion des risques cyber
+- Gouvernance de la sécurité de l'information
+- Politiques et bonnes pratiques de sécurité
+- Conformité et référentiels de cybersécurité
+
+### ⚙️ Automatisation
+- Scripting Python, Bash et PowerShell
+- Automatisation des tâches informatiques
+- Administration en ligne de commande
 
 ---
 
-## 🛠️ `$ ls competences/`
+## 🛠️ `$ ls -la competences/`
 
 ### 🌐 Réseaux & Infrastructure
 
@@ -60,7 +77,7 @@ Mon objectif est de progresser dans la conception, l'administration, l'automatis
 ![VMware](https://img.shields.io/badge/VMware-23395B?style=flat-square)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-23395B?style=flat-square)
 
-### 🛡️ Cybersécurité & Supervision
+### 🔐 Cybersécurité & Supervision
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-0891B2?style=flat-square)
 ![Splunk](https://img.shields.io/badge/Splunk-0891B2?style=flat-square)
@@ -76,61 +93,90 @@ Mon objectif est de progresser dans la conception, l'administration, l'automatis
 ![PowerShell](https://img.shields.io/badge/PowerShell-2563EB?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square)
 
-> Technologies déjà pratiquées dans le cadre de mon apprentissage. Leur présence ne signifie pas une maîtrise avancée.
+> Ces technologies correspondent à des outils et environnements déjà pratiqués dans le cadre de mon apprentissage. Je continue à approfondir mes connaissances et à consolider mes compétences.
+
+---
+
+## 🎯 `$ cat career-interests.md`
+
+### Mes orientations professionnelles
+
+Je souhaite développer progressivement un profil polyvalent en infrastructures informatiques et cybersécurité.
+
+Les domaines et fonctions qui m'intéressent particulièrement sont :
+
+| Domaine | Orientations professionnelles |
+|---|---|
+| 🌐 Réseaux & systèmes | Administration systèmes et réseaux |
+| 🏗️ Infrastructures IT | Administration et sécurisation des infrastructures |
+| 🔎 Sécurité opérationnelle | Analyste SOC junior / Blue Team |
+| 📋 GRC | Gouvernance, gestion des risques et conformité |
+| 🛡️ Conseil en cybersécurité | Consultant cybersécurité junior |
+| ⚙️ Ingénierie de sécurité | Sécurité des infrastructures et SOC Engineering |
+
+> Ces fonctions représentent mes orientations professionnelles et non des postes déjà occupés.
 
 ---
 
 ## 🚀 `$ cat learning-roadmap.md`
 
-Mon objectif est de développer progressivement de nouvelles compétences complémentaires à mon socle en réseaux, systèmes et cybersécurité.
+### Mes perspectives d'évolution
+
+En complément de mes compétences actuelles, je souhaite progressivement explorer de nouveaux domaines techniques.
 
 | Domaine | Compétences à développer | Statut |
 |---|---|---|
-| ☁️ DevOps | Git, Docker, CI/CD, Linux, automatisation | 🎯 À développer |
+| ☁️ Cloud Security | IAM, sécurité réseau cloud, supervision, AWS/Azure | 🎯 À développer |
 | 🔐 DevSecOps | Sécurité CI/CD, analyse de code, sécurité des conteneurs | 🎯 À développer |
-| 🛡️ Cloud Security | IAM, sécurité réseau cloud, supervision, AWS/Azure | 🎯 À développer |
-| 💻 Backend | APIs REST, Python, bases de données, authentification | 🎯 À développer |
+| ⚙️ DevOps | Docker, CI/CD, automatisation, infrastructures | 🎯 À développer |
+| 📋 GRC | ISO 27001, EBIOS RM, analyse des risques | 🎯 À approfondir |
+| 💻 Backend | APIs REST, Python, bases de données, authentification | 🎯 Optionnel |
 
-Ces domaines représentent mes **objectifs d'apprentissage futurs**, et non des compétences déjà acquises.
+Cette feuille de route reflète mes **objectifs d'apprentissage futurs**. Les compétences seront progressivement développées et documentées à travers des projets pratiques.
 
 ---
 
-## 📂 `$ ls -la projets/`
+## 📂 `$ ls -la /projects/featured/`
 
 ### 🔬 Mes réalisations techniques
 
 Je travaille actuellement à la restructuration et à la centralisation de mes anciens projets en réseaux, systèmes et cybersécurité.
 
-Chaque projet sera accompagné, selon les éléments disponibles, de :
+Mon objectif est de proposer une documentation technique claire, structurée et vérifiable.
 
-- Son contexte et ses objectifs
-- Son environnement technique
-- La méthodologie suivie
-- Les outils réellement utilisés
-- Des captures et des résultats observés
-- Les difficultés rencontrées et les enseignements tirés
+Chaque projet publié présentera, selon les éléments disponibles :
 
-📌 **Les dépôts documentés seront ajoutés progressivement.**
+- 📌 Le contexte et les objectifs
+- 🏗️ L'architecture et l'environnement technique
+- 🛠️ Les technologies utilisées
+- 🧪 Les étapes de réalisation
+- 📸 Les captures d'écran et preuves
+- 📊 Les résultats observés
+- 📚 Les difficultés rencontrées et les enseignements tirés
+
+**Les dépôts de projets seront ajoutés progressivement.**
 
 ---
 
-## 🎯 `$ cat objectifs.txt`
+## 📈 `$ cat objectifs.txt`
 
-**À court terme :**
-- Obtenir un premier stage en informatique
+### 🎯 À court terme
+- Obtenir une première expérience professionnelle en informatique
 - Consolider mes compétences en réseaux et systèmes
-- Documenter et partager mes réalisations techniques
+- Approfondir les fondamentaux de la cybersécurité
+- Structurer et publier mes projets techniques sur GitHub
 
-**À moyen terme :**
+### 🔧 À moyen terme
 - Approfondir la sécurité des infrastructures
-- Développer mes compétences en automatisation
-- Découvrir les pratiques DevOps et DevSecOps
-- Explorer la sécurité des environnements cloud
+- Développer mes connaissances en sécurité défensive et GRC
+- Renforcer mes compétences en scripting et automatisation
+- Découvrir les environnements cloud et les pratiques DevOps
 
-**À plus long terme :**
+### 🚀 À long terme
 - Évoluer vers l'ingénierie de sécurité des infrastructures
-- Approfondir le SOC Engineering
-- Développer des projets backend en complément
+- Approfondir les métiers du SOC Engineering
+- Développer des compétences en DevSecOps et Cloud Security
+- Explorer le développement backend en complément
 
 ---
 
@@ -138,17 +184,17 @@ Chaque projet sera accompagné, selon les éléments disponibles, de :
 
 📍 **Localisation :** France
 
-🎓 **Objectif :** Stage en informatique
+🎯 **Situation :** Recherche de stage en informatique
 
-🔗 **LinkedIn :** à ajouter
+💼 **LinkedIn :** lien à ajouter
 
-🌐 **Portfolio Notion :** à ajouter
+🌐 **Portfolio Notion :** lien à ajouter
 
 ---
 
 <div align="center">
 
-### Merci de votre visite !
+### 🛡️ Merci de votre visite !
 
 **Apprendre • Construire • Sécuriser • Progresser**
 
