@@ -59,73 +59,52 @@ Je m'intéresse également aux dimensions opérationnelles et organisationnelles
 
 ---
 
+
 ## 🛠️ `$ ls -la competences/`
 
 ### 🌐 Réseaux & Sécurité réseau
 
-**Protocoles & outils réseau**
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square)
-![DNS](https://img.shields.io/badge/DNS-0078D4?style=flat-square)
-![HTTP](https://img.shields.io/badge/HTTP-0078D4?style=flat-square)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0078D4?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-0078D4?style=flat-square)
-
-**Pare-feu & sécurité périmétrique**
-
-![pfSense](https://img.shields.io/badge/pfSense-1D4ED8?style=flat-square)
-![OPNsense](https://img.shields.io/badge/OPNsense-1D4ED8?style=flat-square)
-![FortiGate](https://img.shields.io/badge/FortiGate-1D4ED8?style=flat-square)
-
-**Architecture & sécurisation réseau**
-
-![VPN](https://img.shields.io/badge/VPN-2563EB?style=flat-square)
-![VLAN](https://img.shields.io/badge/VLAN-2563EB?style=flat-square)
-![ACL](https://img.shields.io/badge/ACL-2563EB?style=flat-square)
-
----
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-173B57?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-173B57?style=flat-square)
+![HTTP](https://img.shields.io/badge/HTTP-173B57?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-173B57?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-173B57?style=flat-square)
+![pfSense](https://img.shields.io/badge/pfSense-173B57?style=flat-square)
+![OPNsense](https://img.shields.io/badge/OPNsense-173B57?style=flat-square)
+![FortiGate](https://img.shields.io/badge/FortiGate-173B57?style=flat-square)
+![VPN](https://img.shields.io/badge/VPN-173B57?style=flat-square)
+![VLAN](https://img.shields.io/badge/VLAN-173B57?style=flat-square)
+![ACL](https://img.shields.io/badge/ACL-173B57?style=flat-square)
 
 ### 🖥️ Systèmes & Virtualisation
 
-![Linux](https://img.shields.io/badge/Linux-23395B?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-23395B?style=flat-square)
-![Windows Server](https://img.shields.io/badge/Windows_Server-23395B?style=flat-square)
-![VMware](https://img.shields.io/badge/VMware-23395B?style=flat-square)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-23395B?style=flat-square)
-![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-23395B?style=flat-square)
-
----
+![Linux](https://img.shields.io/badge/Linux-173B57?style=flat-square)
+![Windows Server](https://img.shields.io/badge/Windows_Server-173B57?style=flat-square)
+![VMware](https://img.shields.io/badge/VMware-173B57?style=flat-square)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-173B57?style=flat-square)
+![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-173B57?style=flat-square)
 
 ### 🛡️ Supervision & Sécurité défensive
 
-**Supervision et analyse des événements**
-
-![Wazuh](https://img.shields.io/badge/Wazuh-0891B2?style=flat-square)
-![Splunk](https://img.shields.io/badge/Splunk-0891B2?style=flat-square)
-![PRTG](https://img.shields.io/badge/PRTG-0891B2?style=flat-square)
-
-**Détection et prévention des intrusions (IDS/IPS)**
-
-![Suricata](https://img.shields.io/badge/Suricata-0891B2?style=flat-square)
-![Snort](https://img.shields.io/badge/Snort-0891B2?style=flat-square)
-
----
+![Wazuh](https://img.shields.io/badge/Wazuh-173B57?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-173B57?style=flat-square)
+![PRTG](https://img.shields.io/badge/PRTG-173B57?style=flat-square)
+![Suricata](https://img.shields.io/badge/Suricata-173B57?style=flat-square)
+![Snort](https://img.shields.io/badge/Snort-173B57?style=flat-square)
 
 ### 🔍 Audit & Outils de sécurité
 
-![Nmap](https://img.shields.io/badge/Nmap-2563EB?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-2563EB?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-2563EB?style=flat-square)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-2563EB?style=flat-square)
-
----
+![Nmap](https://img.shields.io/badge/Nmap-173B57?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-173B57?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-173B57?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-173B57?style=flat-square)
 
 ### ⚙️ Programmation & Scripting
 
-![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-2563EB?style=flat-square)
-![PowerShell](https://img.shields.io/badge/PowerShell-2563EB?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square)
+![Python](https://img.shields.io/badge/Python-173B57?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-173B57?style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-173B57?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-173B57?style=flat-square)
 
 ---
 
