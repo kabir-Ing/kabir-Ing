@@ -68,7 +68,7 @@ Je m'intéresse également aux dimensions opérationnelles et organisationnelles
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-0078D4?style=flat-square)
 ![HTTP](https://img.shields.io/badge/HTTP-0078D4?style=flat-square)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-0078D4?style=flat-square)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0078D4?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0078D4?style=flat-square)
 
 **Pare-feu & sécurité périmétrique**
@@ -77,37 +77,48 @@ Je m'intéresse également aux dimensions opérationnelles et organisationnelles
 ![OPNsense](https://img.shields.io/badge/OPNsense-1D4ED8?style=flat-square)
 ![FortiGate](https://img.shields.io/badge/FortiGate-1D4ED8?style=flat-square)
 
-**Détection et prévention des intrusions**
-
-![Suricata](https://img.shields.io/badge/Suricata-0891B2?style=flat-square)
-![Snort](https://img.shields.io/badge/Snort-0891B2?style=flat-square)
-
 **Architecture & sécurisation réseau**
 
 ![VPN](https://img.shields.io/badge/VPN-2563EB?style=flat-square)
 ![VLAN](https://img.shields.io/badge/VLAN-2563EB?style=flat-square)
 ![ACL](https://img.shields.io/badge/ACL-2563EB?style=flat-square)
 
+---
 
 ### 🖥️ Systèmes & Virtualisation
 
 ![Linux](https://img.shields.io/badge/Linux-23395B?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows_Server-23395B?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-23395B?style=flat-square)
+![Windows Server](https://img.shields.io/badge/Windows_Server-23395B?style=flat-square)
 ![VMware](https://img.shields.io/badge/VMware-23395B?style=flat-square)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-23395B?style=flat-square)
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-23395B?style=flat-square)
 
+---
 
-### 🔐 Cybersécurité & Supervision
+### 🛡️ Supervision & Sécurité défensive
+
+**Supervision et analyse des événements**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-0891B2?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-0891B2?style=flat-square)
+![PRTG](https://img.shields.io/badge/PRTG-0891B2?style=flat-square)
+
+**Détection et prévention des intrusions (IDS/IPS)**
+
+![Suricata](https://img.shields.io/badge/Suricata-0891B2?style=flat-square)
 ![Snort](https://img.shields.io/badge/Snort-0891B2?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-0891B2?style=flat-square)
-![Burp](https://img.shields.io/badge/Burp_Suite-0891B2?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-0891B2?style=flat-square)
-![OWASP](https://img.shields.io/badge/OWASP_ZAP-0891B2?style=flat-square)
-![PRTG](https://img.shields.io/badge/PRTG-0891B2?style=flat-square)
-![PRTG](https://img.shields.io/badge/PRTG-0891B2?style=flat-square)
+
+---
+
+### 🔍 Audit & Outils de sécurité
+
+![Nmap](https://img.shields.io/badge/Nmap-2563EB?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-2563EB?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2563EB?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-2563EB?style=flat-square)
+
+---
 
 ### ⚙️ Programmation & Scripting
 
@@ -115,8 +126,6 @@ Je m'intéresse également aux dimensions opérationnelles et organisationnelles
 ![Bash](https://img.shields.io/badge/Bash-2563EB?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2563EB?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square)
-
-> Ces technologies correspondent à des outils et environnements déjà pratiqués dans le cadre de mon apprentissage. Je continue à approfondir mes connaissances et à consolider mes compétences.
 
 ---
 
