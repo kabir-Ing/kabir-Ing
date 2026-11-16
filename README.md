@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🛡️ KABIR IT
+# 🛡️ Kabir IT
 
 ### 🌐 Réseaux • 🖥️ Systèmes • 🔐 Cybersécurité
 
@@ -21,7 +21,7 @@
 
 Bonjour et bienvenue sur mon profil GitHub !
 
-Je suis **KABIR IT**, passionné par les réseaux informatiques, l'administration des systèmes, les infrastructures IT et la cybersécurité.
+Je suis **Kabir IT**, passionné par les réseaux informatiques, l'administration des systèmes, les infrastructures IT et la cybersécurité.
 
 Je développe mes compétences à travers des travaux pratiques, des laboratoires et des projets techniques, avec une attention particulière à la compréhension, à l'administration et à la sécurisation des infrastructures.
 
@@ -80,7 +80,7 @@ Je m'intéresse également aux dimensions opérationnelles et organisationnelles
 ### 🔐 Cybersécurité & Supervision
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-0891B2?style=flat-square)
-![Splunk](https://img.shields.io/badge/Splunk-0891B2?style=flat-square)
+![Snort](https://img.shields.io/badge/Snort-0891B2?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-0891B2?style=flat-square)
 ![Burp](https://img.shields.io/badge/Burp_Suite-0891B2?style=flat-square)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0891B2?style=flat-square)
@@ -140,21 +140,6 @@ En complément de mes compétences actuelles, je souhaite progressivement explor
 
 ### 🔬 Mes réalisations techniques
 
-Je travaille actuellement à la restructuration et à la centralisation de mes anciens projets en réseaux, systèmes et cybersécurité.
-
-Mon objectif est de proposer une documentation technique claire, structurée et vérifiable.
-
-Chaque projet publié présentera, selon les éléments disponibles :
-
-- 📌 Le contexte et les objectifs
-- 🏗️ L'architecture et l'environnement technique
-- 🛠️ Les technologies utilisées
-- 🧪 Les étapes de réalisation
-- 📸 Les captures d'écran et preuves
-- 📊 Les résultats observés
-- 📚 Les difficultés rencontrées et les enseignements tirés
-
-**Les dépôts de projets seront ajoutés progressivement.**
 
 ---
 
