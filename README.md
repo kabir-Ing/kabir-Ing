@@ -182,9 +182,9 @@ En complément de mes compétences actuelles, je souhaite progressivement explor
 
 🎯 **Situation :** Recherche de stage en informatique
 
-💼 **LinkedIn :** lien à ajouter
+💼 **LinkedIn :** 
 
-🌐 **Portfolio Notion :** lien à ajouter
+🌐 **Portfolio Notion :** 
 
 ---
 
