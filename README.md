@@ -44,6 +44,7 @@ Bonjour, je suis Kabir_IT, étudiant passionné par les infrastructures IT, l’
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-173B57?style=flat-square)
 ![Cisco](https://img.shields.io/badge/Cisco-173B57?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-173B57?style=flat-square)
+![OPNsense](https://img.shields.io/badge/OPNsense-173B57?style=flat-square)
 ![pfSense](https://img.shields.io/badge/pfSense-173B57?style=flat-square)
 ![FortiGate](https://img.shields.io/badge/FortiGate-173B57?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-173B57?style=flat-square)
