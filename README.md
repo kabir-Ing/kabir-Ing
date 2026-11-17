@@ -1,15 +1,12 @@
-
 <div align="center">
 
 # 🛡️ Kabir_IT
 
-### 🌐 Réseaux • 🖥️ Systèmes • 🔐 Cybersécurité
+**Réseaux • Systèmes • Cybersécurité**
 
-**Infrastructures IT | Sécurité opérationnelle | GRC**
-
-![Stage](https://img.shields.io/badge/RECHERCHE-DE_STAGE-0078D4?style=for-the-badge)
-![Infrastructure](https://img.shields.io/badge/IT-INFRASTRUCTURE-102A43?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-0891B2?style=for-the-badge)
+[![Recherche de stage](https://img.shields.io/badge/RECHERCHE-DE_STAGE-0078D4?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TON-PSEUDO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://TON-SITE.com)
 
 *Apprendre • Pratiquer • Documenter • Sécuriser*
 
@@ -17,66 +14,43 @@
 
 ---
 
-## 💻 `$ whoami`
+## À propos
 
-Bonjour et bienvenue sur mon profil GitHub !
+Bonjour, je suis Kabir_IT, étudiant passionné par les infrastructures IT, l’administration des systèmes et réseaux, ainsi que la cybersécurité.
 
-Je suis **Kabir_IT**, passionné par les réseaux informatiques, l'administration des systèmes, les infrastructures IT et la cybersécurité.
+À travers des travaux pratiques et des projets personnels, je développe mes compétences en **administration système**, **sécurité réseau**, **détection d’incidents** et **automatisation**.
 
-Je développe mes compétences à travers des travaux pratiques, des laboratoires et des projets techniques, avec une attention particulière à la compréhension, à l'administration et à la sécurisation des infrastructures.
-
-Je m'intéresse également aux dimensions opérationnelles et organisationnelles de la cybersécurité, notamment à la **sécurité défensive (Blue Team / SOC)** et à la **Gouvernance, aux Risques et à la Conformité (GRC)**.
-
-🎯 **Mon objectif actuel :** décrocher un premier stage en informatique, dans les domaines des réseaux, des systèmes, des infrastructures IT ou de la cybersécurité.
+🎯 **Actuellement :** recherche d’un premier stage en réseaux, systèmes, infrastructures IT ou cybersécurité.
 
 ---
 
-## 🧭 `$ cat domaines-interet.txt`
+## Domaines
 
-### 🌐 Infrastructures IT
-- Administration et sécurité des réseaux
+- Administration des réseaux
 - Administration Linux et Windows Server
-- Virtualisation et infrastructures informatiques
-- Supervision et disponibilité des systèmes
-
-### 🛡️ Cybersécurité opérationnelle
-- Sécurité des systèmes et des réseaux
-- Sécurité défensive (Blue Team)
-- Supervision et analyse des événements de sécurité
-- Détection et analyse des incidents
+- Virtualisation
 - Sécurité des infrastructures
-
-### 📋 Gouvernance, Risques & Conformité
-- Analyse et gestion des risques cyber
-- Gouvernance de la sécurité de l'information
-- Politiques et bonnes pratiques de sécurité
-- Conformité et référentiels de cybersécurité
-
-### ⚙️ Automatisation
-- Scripting Python, Bash et PowerShell
-- Automatisation des tâches informatiques
-- Administration en ligne de commande
+- Analyse et détection d’incidents
+- Sécurité défensive — Blue Team / SOC
+- Automatisation avec Python, Bash et PowerShell
+- Gouvernance, risques et conformité
 
 ---
 
+## Compétences techniques
 
-## 🛠️ `$ ls -la competences/`
-
-### 🌐 Réseaux & Sécurité réseau
+### Réseaux
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-173B57?style=flat-square)
-![DNS](https://img.shields.io/badge/DNS-173B57?style=flat-square)
-![HTTP](https://img.shields.io/badge/HTTP-173B57?style=flat-square)
 ![Cisco](https://img.shields.io/badge/Cisco-173B57?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-173B57?style=flat-square)
 ![pfSense](https://img.shields.io/badge/pfSense-173B57?style=flat-square)
-![OPNsense](https://img.shields.io/badge/OPNsense-173B57?style=flat-square)
 ![FortiGate](https://img.shields.io/badge/FortiGate-173B57?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-173B57?style=flat-square)
 ![VPN](https://img.shields.io/badge/VPN-173B57?style=flat-square)
 ![VLAN](https://img.shields.io/badge/VLAN-173B57?style=flat-square)
-![ACL](https://img.shields.io/badge/ACL-173B57?style=flat-square)
 
-### 🖥️ Systèmes & Virtualisation
+### Systèmes et virtualisation
 
 ![Linux](https://img.shields.io/badge/Linux-173B57?style=flat-square)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-173B57?style=flat-square)
@@ -84,22 +58,15 @@ Je m'intéresse également aux dimensions opérationnelles et organisationnelles
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-173B57?style=flat-square)
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-173B57?style=flat-square)
 
-### 🛡️ Supervision & Sécurité défensive
+### Sécurité défensive
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-173B57?style=flat-square)
 ![Splunk](https://img.shields.io/badge/Splunk-173B57?style=flat-square)
-![PRTG](https://img.shields.io/badge/PRTG-173B57?style=flat-square)
 ![Suricata](https://img.shields.io/badge/Suricata-173B57?style=flat-square)
 ![Snort](https://img.shields.io/badge/Snort-173B57?style=flat-square)
-
-### 🔍 Audit & Outils de sécurité
-
 ![Nmap](https://img.shields.io/badge/Nmap-173B57?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-173B57?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-173B57?style=flat-square)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-173B57?style=flat-square)
 
-### ⚙️ Programmation & Scripting
+### Programmation
 
 ![Python](https://img.shields.io/badge/Python-173B57?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-173B57?style=flat-square)
@@ -108,90 +75,67 @@ Je m'intéresse également aux dimensions opérationnelles et organisationnelles
 
 ---
 
-## 🎯 `$ cat career-interests.md`
+## Projets techniques
 
-### Mes orientations professionnelles
+### Architecture réseau sécurisée
 
-Je souhaite développer progressivement un profil polyvalent en infrastructures informatiques et cybersécurité.
+Laboratoire comprenant la segmentation réseau, la configuration de VLAN, les pare-feux et un VPN.
 
-Les domaines et fonctions qui m'intéressent particulièrement sont :
+**Technologies :** Cisco · VLAN · pfSense · VPN · Wireshark
 
-| Domaine | Orientations professionnelles |
-|---|---|
-| 🌐 Réseaux & systèmes | Administration systèmes et réseaux |
-| 🏗️ Infrastructures IT | Administration et sécurisation des infrastructures |
-| 🔎 Sécurité opérationnelle | Analyste SOC junior / Blue Team |
-| 📋 GRC | Gouvernance, gestion des risques et conformité |
-| 🛡️ Conseil en cybersécurité | Consultant cybersécurité junior |
-| ⚙️ Ingénierie de sécurité | Sécurité des infrastructures et SOC Engineering |
+🔗 `Lien vers le dépôt`
 
+### Supervision et détection d’incidents
 
+Mise en place d’une plateforme de collecte des logs et création de règles de détection.
 
----
+**Technologies :** Wazuh · Linux · Suricata · règles de détection
 
-## 🚀 `$ cat learning-roadmap.md`
+🔗 `Lien vers le dépôt`
 
-### Mes perspectives d'évolution
+### Infrastructure Active Directory
 
-En complément de mes compétences actuelles, je souhaite progressivement explorer de nouveaux domaines techniques.
+Déploiement d’un domaine Windows Server avec gestion centralisée des utilisateurs, groupes et stratégies.
 
-| Domaine | Compétences à développer | Statut |
-|---|---|---|
-| ☁️ Cloud Security | IAM, sécurité réseau cloud, supervision, AWS/Azure | 🎯 À approfondir |
-| 🔐 DevSecOps | Sécurité CI/CD, analyse de code, sécurité des conteneurs | 🎯 À  approfondir|
-| ⚙️ DevOps | Docker, CI/CD, automatisation, infrastructures | 🎯 À développer |
-| 📋 GRC | ISO 27001, EBIOS RM, analyse des risques | 🎯 À approfondir |
-| 💻 Backend | APIs REST, Python, bases de données, authentification | 🎯 Optionnel |
+**Technologies :** Windows Server · Active Directory · GPO · DNS
 
-
+🔗 `Lien vers le dépôt`
 
 ---
 
-## 📂 `$ ls -la /projects/featured/`
+## Objectifs
 
-### 🔬 Mes réalisations techniques
-
-
----
-
-## 📈 `$ cat objectifs.txt`
-
-### 🎯 À court terme
 - Obtenir une première expérience professionnelle en informatique
-- Consolider mes compétences en réseaux et systèmes
-- Approfondir les fondamentaux de la cybersécurité
-- Structurer et publier mes projets techniques sur GitHub
-
-### 🔧 À moyen terme
-- Approfondir la sécurité des infrastructures
-- Développer mes connaissances en sécurité défensive et GRC
-- Renforcer mes compétences en scripting et automatisation
-- Découvrir les environnements cloud et les pratiques DevOps
-
-### 🚀 À long terme
-- Évoluer vers l'ingénierie de sécurité des infrastructures
-- Approfondir les métiers du SOC Engineering
-- Développer des compétences en DevSecOps et Cloud Security
-- Explorer le développement backend en complément
+- Approfondir les réseaux, les systèmes et la sécurité défensive
+- Consolider mes projets techniques sur GitHub
+- Développer mes compétences en automatisation, cloud et DevSecOps
+- Évoluer vers les métiers du SOC ou de l’ingénierie des infrastructures sécurisées
 
 ---
 
-## 📬 `$ netstat --connections`
+## En apprentissage
 
-📍 **Localisation :** France
-
-🎯 **Situation :** Recherche de stage en informatique
-
-💼 **LinkedIn :** 
-
-🌐 **Portfolio  :** 
+| Domaine | Technologies |
+|---|---|
+| Cloud | AWS, Azure, IAM |
+| DevOps | Docker, CI/CD |
+| DevSecOps | Sécurité CI/CD, conteneurs |
+| GRC | ISO 27001, EBIOS RM |
+| Backend | APIs REST, Python, SQL |
 
 ---
 
 <div align="center">
 
+**Localisation : France**
+
+[LinkedIn](https://www.linkedin.com/in/TON-PSEUDO) · [Portfolio](https://TON-SITE.com) · [Email](mailto:TON-EMAIL)
+
+
 ### 🛡️ Merci de votre visite !
 
 **Apprendre • Construire • Sécuriser • Progresser**
+
+
 
 </div>
