@@ -72,7 +72,7 @@ Bonjour, je suis Kabir_IT, étudiant passionné par les infrastructures IT, l’
 ![Python](https://img.shields.io/badge/Python-173B57?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-173B57?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-173B57?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-173B57?style=flat-square)
+
 
 ---
 
