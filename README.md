@@ -78,32 +78,47 @@ Bonjour, je suis Kabir_IT, étudiant passionné par les infrastructures IT, l’
 
 ## Projets techniques
 
-### Architecture réseau sécurisée
+### Infrastructure Active Directory et GPO
 
-Laboratoire comprenant la segmentation réseau, la configuration de VLAN, les pare-feux et un VPN.
+Déploiement d'une infrastructure Active Directory sous Windows Server, gestion centralisée des utilisateurs, des unités d'organisation et configuration des stratégies de groupe (GPO).
 
-**Technologies :** Cisco · VLAN · pfSense · VPN · Wireshark
+**Technologies :** Windows Server · Active Directory · AD DS · GPO · Windows 10
 
-🔗 `Lien vers le dépôt`
+🔗 [Consulter le projet](./TP-Active-Directory-GPO)
 
-### Supervision et détection d’incidents
+### Infrastructure réseau et services DHCP, DNS et VPN
 
-Mise en place d’une plateforme de collecte des logs et création de règles de détection.
+Installation et configuration des services réseau DHCP, DNS et VPN sous Windows Server, avec attribution automatique des adresses IP, résolution de noms et accès distant.
 
-**Technologies :** Wazuh · Linux · Suricata · règles de détection
+**Technologies :** Windows Server · DHCP · DNS · VPN · TCP/IP
 
-🔗 `Lien vers le dépôt`
+🔗 [Consulter le projet](./TP-DHCP-DNS-VPN)
 
-### Infrastructure Active Directory
+### Supervision réseau et centralisation des journaux
 
-Déploiement d’un domaine Windows Server avec gestion centralisée des utilisateurs, groupes et stratégies.
+Déploiement d'une solution de supervision réseau avec PRTG et centralisation des journaux Windows avec Visual Syslog afin de faciliter la surveillance de l'infrastructure.
 
-**Technologies :** Windows Server · Active Directory · GPO · DNS
+**Technologies :** PRTG · Visual Syslog · Windows Server · Syslog
 
-🔗 `Lien vers le dépôt`
+🔗 [Consulter le projet](./supervision-reseau-prtg-syslog)
+
+### Détection et réponse aux incidents de sécurité
+
+Conception et déploiement d'une solution de détection et de réponse aux incidents combinant Wazuh et Suricata, avec centralisation des alertes et simulations d'attaques.
+
+**Technologies :** Wazuh · Suricata · Linux · SIEM · IDS
+
+🔗 [Consulter le projet](./detection-incidents-wazuh-suricata)
+
+### Sauvegarde et restauration d'un serveur Linux
+
+Mise en place d'une solution de sauvegarde Veeam d'un serveur web Linux vers un stockage NFS distant, avec restauration des fichiers et vérification du fonctionnement du service Apache2.
+
+**Technologies :** Veeam · Linux · NFS · Apache2 · Backup & Recovery
+
+🔗 [Consulter le projet](./sauvegarde-restauration-veeam-linux)
 
 ---
-
 ## Objectifs
 
 - Obtenir une première expérience professionnelle en informatique
