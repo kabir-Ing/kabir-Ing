@@ -84,7 +84,7 @@ Déploiement d'une infrastructure Active Directory sous Windows Server, gestion 
 
 **Technologies :** Windows Server · Active Directory · AD DS · GPO · Windows 10
 
-🔗 [Consulter le projet](./TP-Active-Directory-GPO)
+🔗 [Consulter le projet](https://github.com/kabir-Ing/TP-Active-Directory-GPO.git)
 
 ### Infrastructure réseau et services DHCP, DNS et VPN
 
