@@ -5,8 +5,8 @@
 **Réseaux • Systèmes • Cybersécurité**
 
 [![Recherche de stage](https://img.shields.io/badge/RECHERCHE-DE_STAGE-0078D4?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TON-PSEUDO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://TON-SITE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kabir-boutchou)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kabir-it.notion.site/portfolio)
 
 *Apprendre • Pratiquer • Documenter • Sécuriser*
 
