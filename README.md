@@ -92,7 +92,7 @@ Installation et configuration des services réseau DHCP, DNS et VPN sous Windows
 
 **Technologies :** Windows Server · DHCP · DNS · VPN · TCP/IP
 
-🔗 [Consulter le projet](./TP-DHCP-DNS-VPN)
+🔗 [Consulter le projet](https://github.com/kabir-Ing/TP-DHCP-DNS-VPN.git)
 
 ### Supervision réseau et centralisation des journaux
 
@@ -100,7 +100,7 @@ Déploiement d'une solution de supervision réseau avec PRTG et centralisation d
 
 **Technologies :** PRTG · Visual Syslog · Windows Server · Syslog
 
-🔗 [Consulter le projet](./supervision-reseau-prtg-syslog)
+🔗 [Consulter le projet](https://github.com/kabir-Ing/supervision-reseau-prtg-syslog.git)
 
 ### Détection et réponse aux incidents de sécurité
 
@@ -108,7 +108,8 @@ Conception et déploiement d'une solution de détection et de réponse aux incid
 
 **Technologies :** Wazuh · Suricata · Linux · SIEM · IDS
 
-🔗 [Consulter le projet](./detection-incidents-wazuh-suricata)
+🔗 [Consulter le projet](
+   https://github.com/kabir-Ing/detection-incidents-wazuh-suricata.git)
 
 ### Sauvegarde et restauration d'un serveur Linux
 
@@ -116,7 +117,7 @@ Mise en place d'une solution de sauvegarde Veeam d'un serveur web Linux vers un 
 
 **Technologies :** Veeam · Linux · NFS · Apache2 · Backup & Recovery
 
-🔗 [Consulter le projet](./sauvegarde-restauration-veeam-linux)
+🔗 [Consulter le projet](https://github.com/kabir-Ing/sauvegarde-restauration-veeam-linux.git)
 
 ---
 ## Objectifs
