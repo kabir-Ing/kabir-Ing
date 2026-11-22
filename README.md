@@ -145,7 +145,7 @@ Mise en place d'une solution de sauvegarde Veeam d'un serveur web Linux vers un 
 
 **Localisation : France**
 
-[LinkedIn](https://www.linkedin.com/in/TON-PSEUDO) · [Portfolio](https://TON-SITE.com) · [Email](mailto:TON-EMAIL)
+[LinkedIn](https://linkedin.com/in/kabir-boutchou) · [Portfolio](https://kabir-it.notion.site/portfolio) · [Email](mailto:boutchoukabir@gmail.com)
 
 
 ### 🛡️ Merci de votre visite !
